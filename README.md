@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I am Kristina 🦔
 
-<!--
-**carite-sapientis/carite-sapientis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contacts:
+💬 Telegram: [@kristina_void](https://t.me/kristina_void)  
+📷 Instagram: [@kristina-void](https://www.instagram.com/kristina.void/)  
+✉️ Wechat id: zersetzung
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My hobbies
+- 🇨🇳 Chinese
+- 🧠 Psychiatry
+- 📷 Photography
+- 🌷 Nature
+- :octocat: Playing with code 🦄
